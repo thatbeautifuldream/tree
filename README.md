@@ -1,4 +1,4 @@
-# FreeKaTreeSeries Transcript⚡️
+# `FreeKaTreeSeries` Transcript⚡️
 
 ## Content Table
 
