@@ -1,4 +1,4 @@
-# FreeKaTreeSeries Transcript⚡️ (in `Java`)
+# FreeKaTreeSeries⚡️ (in `Java`)
 
 ## Content Table
 
